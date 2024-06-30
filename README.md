@@ -1,4 +1,7 @@
 # Data-analysis-and-presentation-laboratory---HW1---00094295--Part-3-Pinecone-VectorDB-and-RAG
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*J7vyY3EjY46AlduMvr9FbQ.png" alt="Example Diagram" width="500">
+</div>
  ## Overview
 This repository contains a Jupyter Notebook titled "Lab_HW1_O3" which demonstrates the implementation and usage of a RAG (Retrieval-Augmented Generation) pipeline. The notebook covers the integration of various components such as an embedding model, a vector database, and a large language model (LLM) to effectively retrieve and generate answers to user queries.
 
