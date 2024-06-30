@@ -16,6 +16,16 @@ In this notebook, we explore the RAG (Retrieval-Augmented Generation) pipeline, 
 - *A large language model (LLM) to generate responses based on the retrieved information*.
 - *We utilize the sentence-transformer model for embeddings, Pinecone for the vector database, and Cohere's chat API for the LLM.*
 
+## Notebook Structure
+The notebook is organized into the following sections:
+
+1. Imports: Importing the necessary libraries and dependencies.
+2. RAG Pipeline Introduction: Explanation of the RAG pipeline and its components.
+3. Embedding Model: Loading the dataset and generating embeddings using a sentence-transformer model.
+4. Vector Database: Using Pinecone's vector database to store and manage embeddings.
+5. Large Language Model (LLM): Utilizing Cohere's chat API to generate responses based on the retrieved vectors.
+6. Example Queries: Running example queries to demonstrate the pipeline in action.
+
 ## Results
 The notebook provides a comprehensive demonstration of the RAG pipeline, showcasing its ability to efficiently retrieve and generate accurate responses to user queries. Below are some example queries:
 
