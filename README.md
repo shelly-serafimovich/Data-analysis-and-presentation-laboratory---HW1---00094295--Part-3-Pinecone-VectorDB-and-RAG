@@ -1,4 +1,4 @@
-# Data-analysis-and-presentation-laboratory---HW1---00094295--Part-3-Pinecone-VectorDB-and-RAG
+# Data analysis and presentation laboratory 00094295 - HW1 -Part 3 Pinecone-VectorDB-and-RAG
 <div align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*J7vyY3EjY46AlduMvr9FbQ.png" alt="Example Diagram" width="500">
 </div>
